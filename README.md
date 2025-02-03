@@ -19,3 +19,11 @@ Utilizzare le seguenti classi e metodi:
 - FileReader, BufferedReader per leggere dal file.
 - FileWriter, BufferedWriter per scrivere nel file.
 - StringTokenizer o il metodo split() per dividere le righe del file in nome e numero.
+
+## Esempio di file di testo _agenda.txt_
+```
+Mario;02672727
+Bianca;068382928
+Francesca;33877778899
+Valerio;33911112222
+```
